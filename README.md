@@ -11,6 +11,11 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 - **Code bundlers:** Gulp, Webpack;
 - **UX/UI:** Adobe XD, Figma, Avocode, Adobe Photoshop.
 
+### 🛠 Currently learning:
+- React;
+- Redux;
+- React Hooks.
+
 <!--
 **guilt-alt/guilt-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
