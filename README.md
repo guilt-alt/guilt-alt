@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=hey,%20i`m%20Viacheslav!&20render&fontSize=70&animation=fadeIn&fontColor=d6ace6&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=hey,%20i`m%20Viacheslav!&20render&fontSize=70&animation=fadeIn&fontColor=d6ace6&fontAlignY=40)
 
 Welcome to my GitHub page! I am a frontend developer. Each day I create beautiful web-products using best practices and modern technologies. Here you can find some of my open source and pet-projects.
 
