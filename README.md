@@ -16,6 +16,8 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 - Redux;
 - React Hooks.
 
+### 💻 Some of my open source projects:
+
 <!--
 **guilt-alt/guilt-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
