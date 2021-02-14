@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=400&section=header&text=hey,%20i`m%20Slava&20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=400&section=header&text=hey,%20i`m%20Slava&20render&fontSize=90&textBg=true)
 
 <!--
 **guilt-alt/guilt-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
