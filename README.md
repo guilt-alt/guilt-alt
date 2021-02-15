@@ -22,7 +22,7 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 <a href="https://vk.com/piligrim9"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/vk-icon.svg"></a>&nbsp;&nbsp;
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&reversal=true)
 
 ### 💻 Some of my open source projects:
 
