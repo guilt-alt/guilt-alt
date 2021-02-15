@@ -14,8 +14,6 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 - Redux;
 - React Hooks.
 
-<p style="display: block; width: 100%; height: 20px; background-color: #ffffff;">rere</p>
-
 ### 💞 Feel free to contact me if you have interesting ideas or looking for a new team member.
 
 ### 💻 Some of my open source projects:
