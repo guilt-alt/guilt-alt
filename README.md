@@ -18,11 +18,11 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&section=footer)&nbsp;&nbsp;&nbsp;
 
-<p align="center" style="max-width: 854px;">
+<p align="center" width="854">
 <a href="mailto:S.A.S-99@yandex.com"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/mail-icon.svg"></a>&nbsp;&nbsp;
 <a href="https://t.me/MoonCatz"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/telegram-icon.svg"></a>&nbsp;&nbsp;
 <a href="https://vk.com/piligrim9"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/vk-icon.svg"></a>&nbsp;&nbsp;
-</p>&nbsp;&nbsp;
+</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&section=footer)&nbsp;&nbsp;
 
