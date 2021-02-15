@@ -16,6 +16,14 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 
 ### 💞 Feel free to contact me if you have interesting ideas or looking for a new team member.
 
+<p align="center">
+<a href="mailto:S.A.S-99@yandex.com">
+    
+</a>&nbsp;&nbsp;
+<a href="https://t.me/MoonCatz"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/001-linkedin.svg"></a>&nbsp;&nbsp;
+<a href="https://vk.com/piligrim9"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/002-instagram.svg"></a>&nbsp;&nbsp;
+</p>
+
 ### 💻 Some of my open source projects:
 
 <!--
