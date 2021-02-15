@@ -16,7 +16,11 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 
 ### 💞 Feel free to contact me if you have interesting ideas or looking for a new team member.
 
+
+
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20&section=footer)
+
+
 
 <p align="center">
 <a href="mailto:S.A.S-99@yandex.com"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/mail-icon.svg"></a>&nbsp;&nbsp;
@@ -24,7 +28,11 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 <a href="https://vk.com/piligrim9"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/vk-icon.svg"></a>&nbsp;&nbsp;
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&reversal=true)
+
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20&section=footer)
+
+
 
 ### 💻 Some of my open source projects:
 
