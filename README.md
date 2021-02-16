@@ -18,9 +18,9 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center" width="854">
-<a href="mailto:S.A.S-99@yandex.com"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/mail-icon.svg"></a>&nbsp;&nbsp;
-<a href="https://t.me/MoonCatz"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/telegram-icon.svg"></a>&nbsp;&nbsp;
-<a href="https://vk.com/piligrim9"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/vk-icon.svg"></a>&nbsp;&nbsp;
+<a href="mailto:S.A.S-99@yandex.com" title="E-Mail"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/mail-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://t.me/MoonCatz" title="Telegram"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/telegram-icon.svg"></a>&nbsp;&nbsp;
+<a href="https://vk.com/piligrim9" title="VKontakte"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/vk-icon.svg"></a>&nbsp;&nbsp;
 </p>&nbsp;&nbsp;&nbsp;
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=footer)&nbsp;&nbsp;&nbsp;
