@@ -15,8 +15,7 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 - React Hooks.
 
 ### 💞 Feel free to contact me if you have interesting ideas or looking for a new team member.
-
-![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&section=footer)&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center" width="854">
 <a href="mailto:S.A.S-99@yandex.com"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/mail-icon.svg"></a>&nbsp;&nbsp;
@@ -24,7 +23,7 @@ Welcome to my GitHub page! I am a frontend developer. Each day I create beautifu
 <a href="https://vk.com/piligrim9"><img height="40" src="https://raw.githubusercontent.com/guilt-alt/guilt-alt/master/vk-icon.svg"></a>&nbsp;&nbsp;
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&section=footer)&nbsp;&nbsp;
+![footer](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6&section=footer)&nbsp;&nbsp;
 
 ### 💻 Some of my open source projects:
 
